@@ -1,1 +1,2 @@
-# Javascript_jQuery
+# Project: Javascript/jQuery
+theodinproject.com
