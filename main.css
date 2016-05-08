@@ -1,0 +1,38 @@
+.box{
+	width: 16px;
+	height: 16px;
+	border-style: solid;
+	border-color: gray;
+	border-width: 1px;
+	display: inline-block;
+}
+
+.box1{
+	width: 16px;
+	height: 16px;
+	border-style: solid;
+	border-color: gray;
+	border-width: 1px;
+	display: inline-block;
+	margin-top: -0.25em;
+}
+
+.box2{
+	width: 16px;
+	height: 16px;
+	border-style: solid;
+	border-color: gray;
+	border-width: 1px;
+	display: inline-block;
+	margin-top: -1em;	
+	position: relative;
+}
+
+#google{
+	width: 100px;
+	height: 100px;
+	background-color: gray;
+	position: absolute;
+	top: 1500px;
+}
+
